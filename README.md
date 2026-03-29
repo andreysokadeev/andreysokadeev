@@ -1,4 +1,4 @@
-# Hi, I'm Andrey Sokadeev
+# Andrey Sokadeev
 
 Technical Sales & Account Management | Industrial, HVAC, Flow Control | Winnipeg, Manitoba
 
